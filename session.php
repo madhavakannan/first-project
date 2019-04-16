@@ -3,6 +3,7 @@ session_start();
 ?>
 <html>
 <body>
+jsri
 <form action="text.php" method="POST">
 <input type="text" name="username"/><br>
 <input type="submit" name="submit" value="submit">
